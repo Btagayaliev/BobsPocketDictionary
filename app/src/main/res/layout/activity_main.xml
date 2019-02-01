@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/numbers"
+        style="@style/GroupStyle"
+        android:background="@color/numbers"
+        android:text="Numbers"
+        />
+    <TextView
+        android:id="@+id/home"
+        style="@style/GroupStyle"
+        android:background="@color/home"
+        android:text="Home"
+        />
+    <TextView
+        android:id="@+id/food"
+        style="@style/GroupStyle"
+        android:background="@color/food"
+        android:text="Food"
+        />
+    <TextView
+        android:id="@+id/family"
+        style="@style/GroupStyle"
+        android:background="@color/family"
+        android:text="Family"
+        />
+    <TextView
+        android:id="@+id/clothes"
+        style="@style/GroupStyle"
+        android:background="@color/clothes"
+        android:text="Clothes"
+        />
+    <TextView
+        android:id="@+id/leisure"
+        style="@style/GroupStyle"
+        android:background="@color/lesiure"
+        android:text="Leisure"
+        />
+    <TextView
+        android:id="@+id/work"
+        style="@style/GroupStyle"
+        android:background="@color/work"
+        android:text="Work"
+        />
+    <TextView
+        android:id="@+id/body"
+        style="@style/GroupStyle"
+        android:background="@color/body"
+        android:text="Body"
+        />
+    <TextView
+        android:id="@+id/phrases"
+        style="@style/GroupStyle"
+        android:background="@color/phrases"
+        android:text="Phrases"/>
+
+
+
+</LinearLayout>

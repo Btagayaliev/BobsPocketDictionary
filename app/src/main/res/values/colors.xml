@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4A312A</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="background">#FFF7DA</color>
+    <color name="numbers">#16AFCA</color>
+    <color name="home">#E65100</color>
+    <color name="food">#4CAF50</color>
+    <color name="work">#1A237E</color>
+    <color name="lesiure">#FD8E09</color>
+    <color name="body">#D50000</color>
+    <color name="clothes">#8800A0</color>
+    <color name="family">#1DE9B6</color>
+    <color name="phrases">#3E2723</color>
+    <color name="textColor">#5D4037</color>
+</resources>
