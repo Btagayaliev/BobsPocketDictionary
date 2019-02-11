@@ -1,5 +1,7 @@
 package com.bakhti.android.bobspocketdictionary;
 
+
+//Creates the frame for each entry in the dictionary
 public class Word {
 
     private int number;
@@ -13,6 +15,7 @@ public class Word {
         this.audioResourceId = audioResourceId;
     }
 
+    //Getter methods
     public int getNumber() {
         return this.number;
     }
